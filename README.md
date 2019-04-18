@@ -1,6 +1,6 @@
 # shell-script-TiemBanCD
-#Bài tập shell script - 'Tiệm bán CD'
+# Bài tập shell script - 'Tiệm bán CD'
 ```console
 foo@bar:~$ bash ./TimBanCD
 ```
-auth: Nguyễn An Ninh
+Auth: Nguyễn An Ninh
